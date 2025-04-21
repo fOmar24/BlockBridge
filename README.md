@@ -39,7 +39,6 @@ Apply for Grants or Find Collaborators.
 
 For Developers
 bash
-git clone https://github.com/blockbridge/platform.git
 cd platform
 npm install
 npm run dev  # Starts localhost:3000
